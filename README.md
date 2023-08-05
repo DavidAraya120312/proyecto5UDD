@@ -3,7 +3,7 @@ Pagina web de ventas de guitarras, cuenta con carrito de compras, perfil, simula
 como base de datos usé Mongo y para los pagos Paypal
 
  
-nstalación
+instalación
 Para
 
 Clona
