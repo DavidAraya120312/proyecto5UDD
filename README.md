@@ -4,7 +4,7 @@ como base de datos usé Mongo y para los pagos Paypal
 
  
 instalación
-Para
+
 
 Clona
 bash
