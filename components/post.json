@@ -1,0 +1,161 @@
+
+{
+    "data":[
+        {
+            "id": 1,
+            "contenido": "Vai guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Vai guitarra profesional",
+                "contenido": "Vai guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_01.jpg"
+            }
+        },
+        {
+            "id": 2,
+            "contenido": "Vai guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Clapton",
+                "contenido": "Vai guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_02.jpg2"
+            }
+        },
+        {
+            "id": 3,
+            "contenido": "Hendrix guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Hendrix",
+                "contenido": "Hendrix guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_03.jpg2"
+            }
+        },
+        {
+            "id": 4,
+            "contenido": "Page guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Page guitarra profesional",
+                "contenido": "Page guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_04.jpg2"
+            }
+        },
+        {
+            "id": 5,
+            "contenido": "Santana guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Santana guitarra profesional",
+                "contenido": "Santana guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_05.jpg2"
+            }
+        },
+        {
+            "id": 6,
+            "contenido": "Vai guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Vai guitarra profesional",
+                "contenido": "Vai guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_06.jpg2"
+            }
+        },
+        {
+            "id": 7,
+            "contenido": "Vai guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Vai guitarra profesional",
+                "contenido": "Vai guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_07.jpg2"
+            }
+        },
+        {
+            "id": 8,
+            "contenido": "May guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "May guitarra profesional",
+                "contenido": "May guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_08.jpg2"
+            }
+        },
+        {
+            "id": 9,
+            "contenido": "VaiMay guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "VaiMay guitarra profesional",
+                "contenido": "VaiMay guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_09.jpg2"
+            }
+        },
+        {
+            "id": 10,
+            "contenido": "Edge guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Edge guitarra profesional",
+                "contenido": "Edge guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_10.jpg2"
+            }
+        },
+        {
+            "id": 11,
+            "contenido": "Edge guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Edge guitarra profesional",
+                "contenido": "Edge guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_11.jpg2"
+            }
+        },
+        {
+            "id": 12,
+            "contenido": "Edge guittar es una marca de guitarras electricas",
+            "attributes": {
+                "titulo": "Edgetest guitarra profesional",
+                "contenido": "Edge guittar es una marca de guitarras electricas",
+                "url": null,
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "imagen": "/image/guitarra_12.jpg2"
+            }
+        }
+    ]
+}

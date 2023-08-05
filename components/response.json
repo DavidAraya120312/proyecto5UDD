@@ -1,0 +1,160 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "attributes": {
+                "nombre": "Vai",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Vai guittar es una marca de guitarras electricas",
+                "precio": 349,
+                "imagen": "/image/guitarra_01.jpg",
+                "url": null
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "nombre": "Clapton",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Clapton guitar tiene un tono clásico muy buscado",
+                "precio": 349,
+                "imagen": "/image/guitarra_02.jpg",
+                "url": "clapton"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "nombre": "Hendrix",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Hendrix guitar es reconocida por su sonido único",
+                "precio": 399,
+                "url": "hendrix",
+                "imagen": "/image/guitarra_03.jpg"
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "nombre": "Page",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Page guitar es ideal para los amantes del rock clásico",
+                "precio": 359,
+                "url": "page",
+                "imagen": "/image/guitarra_04.jpg"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "nombre": "Santana",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Santana guitar tiene un tono cálido, perfecto para solos melódicos",
+                "precio": 379,
+                "url": "santana",
+                "imagen": "/image/guitarra_05.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "nombre": "May",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "May guitar ofrece un tono distintivo, perfecto para varias técnicas",
+                "precio": 369,
+                "url": "may",
+                "imagen": "/image/guitarra_06.jpg"
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "nombre": "Slash",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Slash guitar tiene un sonido fuerte y audaz, ideal para rock duro",
+                "precio": 389,
+                "url": "slash",
+                "imagen": "/image/guitarra_07.jpg"
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "nombre": "Hammett",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Hammett guitar es para aquellos que buscan velocidad y precisión",
+                "precio": 399,
+                "url": "hammett",
+                "imagen": "/image/guitarra_08.jpg"
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "nombre": "Beck",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Beck guitar tiene un sonido limpio y cristalino, perfecto para jazz",
+                "precio": 359,
+                "url": "beck",
+                "imagen": "/image/guitarra_09.jpg"
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "nombre": "Gilmour",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Gilmour guitar ofrece tonos ricos, ideales para solos atmosféricos",
+                "precio": 389,
+                "url": "gilmour",
+                "imagen": "/image/guitarra_10.jpg"
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "nombre": "Blackmore",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Blackmore guitar es perfecta para riffs potentes y solos veloces",
+                "precio": 379,
+                "url": "blackmore",
+                "imagen": "/image/guitarra_11.jpg"
+            }
+        },
+        {
+            "id": 12,
+            "attributes": {
+                "nombre": "Edge",
+                "createdAt": "2020-10-10T00:00:00.000Z",
+                "updateAt": "2020-10-10T00:00:00.000Z",
+                "publishedAt": "2020-10-10T00:00:00.000Z",
+                "descripcion": "Edge guitar es conocida por su uso de efectos y sonidos etéreos",
+                "precio": 369,
+                "url": "edge",
+                "imagen": "/image/guitarra_12.jpg"
+            }
+        }
+    ]
+}
